@@ -1,5 +1,5 @@
 #Your ModelSim project file here
-set file_name_RD "RMII_MAC.mpf"
+set file_name_RD "ModelSimProject.mpf"
 #Your destination .do file there
 set file_name_WR "compileorder.do"
 
