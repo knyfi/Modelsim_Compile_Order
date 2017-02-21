@@ -8,7 +8,7 @@ set file_name_WR "compileorder.do"
 set fp [open $file_name_RD r]
 set file_data [read $fp]
 close $fp
-puts "FileList: $File_List"
+
 #  Process data file
 set File_List ""
 set To_Write ""
